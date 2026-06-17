@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Hiten07&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-- 🔭 Currently working as a **Software Developer at eSparkBiz**, building **ChainIT®** — a microservices-driven platform for business KYB/KYC, digital documentation, and marketplace operations.
+- 🔭 Currently working as a **Software Developer**
 - ⚙️ Focused on scalable APIs, message queues, containerized environments, and distributed cloud architecture.
 - 🌱 Always learning more about microservices, CQRS, and system design.
 - 💼 See my work: [hitenthanki.netlify.app](https://hitenthanki.netlify.app/)
